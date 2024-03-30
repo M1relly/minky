@@ -28,8 +28,13 @@ Para visualizar a seguinte aplicação, realize os seguintes passos:
 3. Clique nos três pontinhos
 4. Import files
 5. Procure e selecione nos seus arquivos pelo código deste repositório
-6. clique em Launch Snack na lateral direita
+6. Clique em Launch Snack na lateral direita
 
+<br>
+
+**✨ ALTERNATIVA ✨**
+<br>
+Utilize a URL localizada na descrição lateral. Ela abrirá a visualização do código e do APP da mesma forma que o passo a passo anterior.
 
 
 # Alguns dados sobre o repositório

@@ -1,43 +1,42 @@
 # 🤍 minky
-Minky é o app que te ajuda a administrar suas tarefas diárias. Simples, fácil e prático 😸
+Minky is the app that helps you manage your daily tasks. Simple, easy and practical 😸
 
-# 💻 Técnicas e Tecnologias
+# 💻 Techniques and Technologies
 - Expo
-- Componentes React Native
-- Componentes customizados
-- Suporte a telas
+- React Native Components
+- Custom components
+- Screens support
 - StyleSheet
 - Dimensions
 - asyncStorage
 - TabNavigation
 - StackNavigation
 
-# 🖊 Pré-requisitos
-Para visualizar a seguinte aplicação, realize os seguintes passos:
+# 🖊 Prerequisites
+To view the following application, perform the following steps:
 
-**PARTE 1**
-1. Clique no botão `Code`
-2. Baixe o ZIP
-3. Descompacte o arquivo
+**PART 1**
+1. Click on the `Code` button
+2. Download the ZIP
+3. Unzip the file
 
 
-**PARTE 2**
-1. Abra uma conta no Expo Mobile. Comece por [aqui]( https://expo.dev/signup?redirect_uri=https%3A%2F%2Fsnack.expo.dev%2F%40beatrizsanti%2Fsnack-0%3FhideQueryParams%3Dtrue
+**PART 2**
+1. Open an account at Expo Mobile. Start [here]( https://expo.dev/signup?redirect_uri=https%3A%2F%2Fsnack.expo.dev%2F%40beatrizsanti%2Fsnack-0%3FhideQueryParams%3Dtrue
 ) 
-2. Clique em `New Snack`
-3. Clique nos três pontinhos
+2. Click on `New Snack`
+3. Click on the three dots
 4. Import files
-5. Procure e selecione nos seus arquivos pelo código deste repositório
-6. Clique em Launch Snack na lateral direita
+5. Browse and select your files for the code in this repository
+6. Click on Launch Snack on the right side
 
 <br>
 
-**✨ ALTERNATIVA ✨**
+**✨ ALTERNATIVE ✨**
 <br>
-Utilize a URL localizada na descrição lateral. Ela abrirá a visualização do código e do APP da mesma forma que o passo a passo anterior.
+Use the URL located in the side description. It will open the code and APP view in the same way as the previous step-by-step.
 
-
-# Alguns dados sobre o repositório
+# Some data about the repository
 ![GitHub repo size](https://img.shields.io/github/repo-size/M1relly/minky?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/M1relly/minky?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/M1relly/minky?style=for-the-badge)

@@ -36,6 +36,12 @@ To view the following application, perform the following steps:
 <br>
 Use the URL located in the side description. It will open the code and APP view in the same way as the previous step-by-step.
 
+
+# 🌺 Preview
+<img src="cp2-parte1/minky_preview.jpeg" alt="App preview" style="width: 300px; height: 731px;">
+
+
+
 # Some data about the repository
 ![GitHub repo size](https://img.shields.io/github/repo-size/M1relly/minky?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/M1relly/minky?style=for-the-badge)
